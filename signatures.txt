@@ -1,0 +1,1 @@
+# Add SHA-256 hashes of known malicious files, one per line.
